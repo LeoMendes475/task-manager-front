@@ -1,10 +1,12 @@
 ## Passo a passo para rodar o projeto
 
 Versões utilizadas
-```Node
+```
+-> Node
 v20.15.1
 ```
-```Npm
+```
+-> Npm
 10.8.2
 ```
 
@@ -17,10 +19,12 @@ cd task-manager-front
 ```
 
 Instalar dependências do projeto
-```npm
+```
+-> npm
 npm i
 ```
-```yarn
+```
+-> yarn
 yarn dev
 ```
 
