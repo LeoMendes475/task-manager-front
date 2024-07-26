@@ -1,75 +1,37 @@
-# Nuxt 3 Minimal Starter
+## Passo a passo para rodar o projeto
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
-## Setup
-
-Make sure to install the dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
+Versões utilizadas
+```Node
+v20.15.1
+```
+```Npm
+10.8.2
 ```
 
-## Development Server
+Clone o projeto
+```sh
+git clone https://github.com/LeoMendes475/task-manager-front.git
+```
+```sh
+cd task-manager-front
+```
 
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
+Instalar dependências do projeto
+```npm
+npm i
+```
+```yarn
 yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
+Rode o projeto
+```sh
+npm run dev
+```
+```sh
+yarn dev
 ```
 
-Locally preview production build:
+Acesse o projeto
+[http://localhost:3000](http://localhost:3000)
 
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
